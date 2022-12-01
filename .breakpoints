@@ -1,0 +1,26 @@
+{
+  "files": {
+    "Main.java": [
+      {
+        "id": "2bc69ead-355f-4e84-bf55-a687a26899d6",
+        "line": 36,
+        "version": 18998,
+        "index": 1464
+      },
+      {
+        "id": "f1f8cb49-c4e8-40dc-a23b-a34ffd9b4406",
+        "line": 74,
+        "version": 18998,
+        "index": 3487
+      }
+    ],
+    "Monster.java": [
+      {
+        "id": "a33327a2-83e6-4b2a-aee3-550289803d9e",
+        "line": 123,
+        "version": 3401,
+        "index": 2734
+      }
+    ]
+  }
+}
